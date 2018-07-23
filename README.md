@@ -7,7 +7,7 @@ After completing each session assignment, share the link to your repository in t
 
 Good luck.
 
-Session 2 Assignment: For this assignment you have to upload 2 files to your Github repository (forked) and share the link to your repo to complete task 1 to 4. Also you have to share the link to your KNIME forum profile whenever task 5 is completed.
+Session 2 Assignment: For this assignment you have to upload 2 files to your Github repository (forked) and share the link to your repo to complete tasks 1 to 4. Also you have to share the link to your KNIME forum profile whenever task 5 is completed.
 
 Task 1: Read the "adult.csv" file using "File Reader" node. The output data MUST contain only first 30,000 rows and all columns MUST be labeled.
   
