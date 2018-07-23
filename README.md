@@ -8,5 +8,8 @@ After completing each session assignment, share the link to your repository in d
 Good luck.
 
 Session 2 Assignment:
+
   Task 1:
+  
   Task 2:
+  
