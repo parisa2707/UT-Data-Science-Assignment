@@ -3,7 +3,7 @@ This repository is created for the Data Science course at the University of Tehr
 
 Students should fork this repository and upload reqired assignment files due to the tasks introduced after each session.
 
-After completing each session assignment, share the link to your repository in dedicated Telegram group.
+After completing each session assignment, share the link to your repository in the dedicated Telegram group.
 
 Good luck.
 
