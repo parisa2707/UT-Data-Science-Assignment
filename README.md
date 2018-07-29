@@ -14,7 +14,7 @@ Task 1: Read the "adult.csv" file using "File Reader" node. The output data MUST
 Task 2: Read "cars-85.xlsx" file using "Excel Reader (XLS)" node. In the output data, the first 2 columns MUST be skipped.
 
 Task 3: Read "Iris.sqlite" database file using appropriate nodes. The output data MUST caontain only the following columns:
-"sepal_length", "sepal_width", "petal_length", "petal_width", "class_Arr_1"
+"sepal_length", "sepal_width", "petal_length", "petal_width", "class_Arr_1_"
 
 Task 4: Add "Node Monitor" view to the right panel. Take a picture of your screen while this view is added in KNIME Analytics Platform.
 
